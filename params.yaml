@@ -1,0 +1,5 @@
+bam_file : "/home/data/mt.bam"
+bed_file : "/home/data/regions.bed"
+output_sequences : "sequence.fasta"
+output_counts : "counts.json"
+outdir : "results"
